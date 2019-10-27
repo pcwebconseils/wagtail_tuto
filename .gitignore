@@ -1,0 +1,3 @@
+/venv/
+/wagtail_tuto/db.sqlite3
+/wagtail_tuto/wagtail_tuto/settings/production.py
